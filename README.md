@@ -1,1 +1,2 @@
 # 3D-Truss-Designer
+3D Truss designer is a finite element analysis (FEA) program I developed in MATLAB. This tool is capable of designing, constructing and analyzing the mechanical stresses and strains of any 3D truss structure. All the data required like the nodes, connections, loads and restrictions are imputed through a graphics user interface (GUI) where such information is captured and used to virtually build and analyze said 3D truss structure.
